@@ -88,28 +88,50 @@ This system demonstrates Python's versatility in building scalable, modular appl
 
 ---
 
-## **III. Sustainable Development Goal (SDG) Integration**
+## **II. Sustainable Development Goal Integration**
+**WEave CAN** aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
+
+---
+
+### **1. SDG 8: Decent Work and Economic Growth**
 
 <div align="center">
-  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_08.gif" alt="SDG 8 GIF" width="200">
+  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_05.gif" alt="SDG 5 GIF" width="600">
 </div>
 
-**WEave CAN** aligns with the **United Nations Sustainable Development Goals**, particularly **SDG 8: Decent Work and Economic Growth**. Here’s how it contributes:
+**WEave CAN** contributes to **SDG 8** by fostering sustainable business practices and supporting economic growth in artisan communities:
 
-1. **Efficient Business Practices**  
-   Streamlines operations for Filipino weavers, enabling them to scale their businesses efficiently.
+- **Efficiency and Growth**:  
+  Streamlines inventory and order management, enabling artisans to scale their businesses efficiently.
+- **Economic Empowerment**:  
+  Provides access to digital tools that help weavers achieve income stability and financial independence.
+- **Cultural Heritage**:  
+  Highlights traditional weaving techniques and materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.
+- **Community Impact**:  
+  Strengthens local economies and benefits indigenous and tribal groups reliant on weaving as a primary source of livelihood.
 
-2. **Economic Empowerment**  
-   Provides digital tools for weavers to stabilize their income and expand their reach.
+---
 
-3. **Cultural Preservation**  
-   Highlights and supports traditional weaving materials (e.g., abaca, piña, cotton), preserving Filipino artistry.
+### **2. SDG 5: Gender Equality**
 
-4. **Community Upliftment**  
-   Enhances opportunities for indigenous and rural communities by creating sustainable economic activities.
+<div align="center">
+  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_05.gif" alt="SDG 5 GIF" width="600">
+</div>
 
-5. **Inclusive Growth**  
-   Promotes gender equality and inclusivity by empowering female artisans, who are often the primary weavers.
+**WEave CAN** actively supports **SDG 5** by promoting gender equality and empowering women, who constitute a significant portion of Filipino weavers:
+
+- **Women’s Empowerment**:  
+  Focuses on providing digital tools and resources to women artisans, enabling them to manage their businesses more effectively and access larger markets.
+- **Economic Inclusion**:  
+  Addresses barriers that limit women’s participation in the workforce by offering solutions tailored to their roles in traditional crafts.
+- **Skill Development**:  
+  Encourages the preservation and growth of weaving skills, often passed down through generations of women, ensuring their cultural and economic relevance.
+- **Leadership Opportunities**:  
+  Recognizes women artisans as leaders in preserving cultural heritage and driving economic change within their communities.
+
+By integrating these SDGs into its design and goals, **WEave CAN** serves as a platform for inclusive growth, gender equality, and cultural preservation, contributing to a better future for Filipino weaving communities.
+
+
 
 ---
 
