@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/image/WeaveCAN1_Logo.png" alt="WEaveCAN1 Logo" width="800">  
+  <img src="/image/WEaveCAN1_Logo.png" alt="WEaveCAN1 Logo" width="800">  
   <br><br>
     <a href="https://github.com/JoerenAguila">Joeren Aguila IT - 2104</a>
   </p>
