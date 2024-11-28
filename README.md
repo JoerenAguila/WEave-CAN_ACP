@@ -96,7 +96,7 @@ This system demonstrates Python's versatility in building scalable, modular appl
 ### **1. SDG 8: Decent Work and Economic Growth**
 
 <div align="center">
-  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_05.gif" alt="SDG 5 GIF" width="600">
+  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_08.gif" width="200">
 </div>
 
 **WEave CAN** contributes to **SDG 8** by fostering sustainable business practices and supporting economic growth in artisan communities:
@@ -115,7 +115,7 @@ This system demonstrates Python's versatility in building scalable, modular appl
 ### **2. SDG 5: Gender Equality**
 
 <div align="center">
-  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_05.gif" alt="SDG 5 GIF" width="600">
+  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_05.gif" alt="SDG 5 GIF" width="200">
 </div>
 
 **WEave CAN** actively supports **SDG 5** by promoting gender equality and empowering women, who constitute a significant portion of Filipino weavers:
