@@ -91,7 +91,7 @@ This system demonstrates Python's versatility in building scalable, modular appl
 ## **III. Sustainable Development Goal (SDG) Integration**
 
 <div align="center">
-  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_08.gif" alt="SDG 8 GIF" width="600">
+  <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_08.gif" alt="SDG 8 GIF" width="200">
 </div>
 
 **WEave CAN** aligns with the **United Nations Sustainable Development Goals**, particularly **SDG 8: Decent Work and Economic Growth**. Here’s how it contributes:
