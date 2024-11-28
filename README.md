@@ -14,10 +14,10 @@
 
 ## **Table of Contents**
 
-1. [I. Overview](#i-overview)  
-2. [II. Sustainable Development Goal 8 (SDG 8) Integration](#ii-sustainable-development-goal-8-sdg-8-integration)  
-3. [III. Explanation of Python Concepts and Libraries](#iii-explanation-of-python-concepts-and-libraries)  
-4. [IV. Instructions for Running the Program](#iv-instructions-for-running-the-program)  
+I. [Overview](#i-overview)  
+II. [Sustainable Development Goal 8 (SDG 8) Integration](#ii-sustainable-development-goal-8-sdg-8-integration)  
+III. [Explanation of Python Concepts and Libraries](#iii-explanation-of-python-concepts-and-libraries)  
+IV. [Instructions for Running the Program](#iv-instructions-for-running-the-program)  
 
 ---
 
