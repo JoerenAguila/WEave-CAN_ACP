@@ -133,8 +133,8 @@ I would like to express my sincere gratitude to the following individuals:
   <img src="/image/WEavers.png" alt="Weavers" width="800"> 
 </div>
 
-Thank you for your priceless contribution to the cultural legacy of the Philippines!  
+**Thank you for your priceless contribution to the cultural legacy of the Philippines!**  
 
-"WEAVE GOT IT ALL FOR YOU!"
+**"WEAVE GOT IT ALL FOR YOU!"**
 
 ---
