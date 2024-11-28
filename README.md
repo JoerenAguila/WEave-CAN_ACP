@@ -40,29 +40,51 @@ This project supports market expansion, business sustainability, and cultural pr
 
 ---
 
-## **II. Python Principles**
+## **III. Python Concepts and Libraries**
 
-**WEave CAN** follows fundamental Python principles to ensure code clarity, maintainability, and scalability:
+**WEave CAN** utilizes essential Python principles and libraries to ensure a structured and efficient system. Below is a breakdown of the concepts applied in the program:
 
 ### 1. **Object-Oriented Programming (OOP)**
+The system is built using OOP to model real-world entities effectively:
+- **Classes and Subclasses**:  
+  - `User` serves as a base class for `Weaver` and `Admin`, which inherit and extend its functionality.
+  - `Product` and `Order` classes represent inventory items and customer transactions, respectively.
 - **Encapsulation**:  
-  Data and methods are encapsulated within classes, making the code modular.  
+  Data and methods are encapsulated within classes, maintaining modularity and data security. For example, `order_history` in the `Weaver` class is private to the user.
 - **Inheritance**:  
-  Core entities like `User`, `Weaver`, and `Admin` share properties and methods through inheritance.  
+  The `Admin` class inherits from the `User` class and adds admin-specific functionalities like generating sales reports.
 - **Polymorphism**:  
-  Methods behave differently depending on the object type, such as processing orders for different user roles.
+  Methods like `get_user_type` return outputs based on the user type (e.g., Weaver or Admin), demonstrating dynamic behavior.
 
-### 2. **Code Readability**
-- The program adheres to Python’s philosophy of clean, readable code, as promoted by **PEP 8**.
+### 2. **Error Handling**
+- The `Product` class validates the material and pattern inputs against predefined sets (`VALID_MATERIALS` and `VALID_PATTERNS`), raising a `ValueError` for invalid entries.
+- Try-except blocks are used to handle invalid inputs during order creation.
 
-### 3. **Error Handling**
-- Robust error handling ensures the system remains reliable and prevents crashes due to invalid inputs.
+### 3. **Core Libraries**
+- **`random`**:  
+  Generates unique order IDs for tracking orders, ensuring no duplicate identifiers.
+  
+### 4. **Dynamic Features**
+- **Inventory Management**:  
+  The `Product` class tracks stock levels and sales. Methods like `apply_sale` allow dynamic price adjustments.
+- **Order Creation and Tracking**:  
+  The `Order` class manages transaction details, including product quantity, customer details, and total amount.
+- **User Roles**:  
+  - `Weaver` users can view their order history and cancel pending orders.
+  - `Admin` users have additional privileges, like generating sales reports and applying discounts.
 
-### 4. **Dynamic Typing**
-- Python's dynamic typing allows for quick prototyping and adaptability in variable usage.
+### 5. **Reusable Functions**
+The system includes reusable functions to streamline operations:
+- **`view_inventory`**: Displays the current stock with details like price, stock quantity, material, and pattern.
+- **`create_order`**: Facilitates order placement, updating inventory and customer order history.
 
-### 5. **Reusability**
-- Functions and classes are designed to promote reusability, reducing redundancy and improving maintainability.
+### 6. **Validation and Reporting**
+- **Admin Reporting**:  
+  Admin users can generate reports to identify the best and least-selling products using the `generate_best_seller_report` and `generate_least_seller_report` methods.
+- **Input Validation**:  
+  Functions validate user inputs to ensure consistency and prevent errors (e.g., invalid product selections or insufficient stock).
+
+This system demonstrates Python's versatility in building scalable, modular applications that can handle diverse user roles and operations.
 
 ---
 
