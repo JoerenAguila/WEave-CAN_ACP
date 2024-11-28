@@ -1,9 +1,6 @@
 <div align="center">
   <img src="/image/WeaveCAN1_Logo.png" alt="WEaveCAN1 Logo" width="800">  
   <br><br>
-  <h3 align="center">"Weave got it all for you!"</h3>
-  <p align="center">
-    <b>By:</b> <br>
     <a href="https://github.com/JoerenAguila">Joeren Aguila IT - 2104</a>
   </p>
 </div>
