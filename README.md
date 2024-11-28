@@ -130,7 +130,7 @@ I would like to express my sincere gratitude to the following individuals:
 - A special dedication goes to the **Filipino weavers**, whose talent and cultural heritage inspired the creation of this system. My goal is to celebrate and preserve Filipino weaving traditions while providing artisans with the tools they need for sustainable growth in today’s economy. This project is a tribute to your skill and creativity, and I hope it helps in enhancing the future of Filipino weaving communities.
 
 <div align="center">
-  <img src="/image/Weavers.png" alt="Weavers" width="800"> 
+  <img src="/image/WEavers.png" alt="Weavers" width="800"> 
 </div>
 
 Thank you for your priceless contribution to the cultural legacy of the Philippines!  
