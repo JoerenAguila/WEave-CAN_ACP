@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="/image/WeaveCAN1_Logo.png" alt="WEaveCAN1 Logo" width="800">  
   <br><br>
@@ -15,8 +13,8 @@
 ## **Table of Contents**
 
 I. [Overview](#i-overview)  
-II. [Sustainable Development Goal 8 (SDG 8) Integration](#ii-sustainable-development-goal-8-sdg-8-integration)  
-III. [Explanation of Python Concepts and Libraries](#iii-explanation-of-python-concepts-and-libraries)  
+II. [Python Principles](#ii-python-principles)  
+III. [Sustainable Development Goal (SDG) Integration](#iii-sustainable-development-goal-sdg-integration)  
 IV. [Instructions for Running the Program](#iv-instructions-for-running-the-program)  
 
 ---
@@ -45,52 +43,54 @@ This project supports market expansion, business sustainability, and cultural pr
 
 ---
 
-## **II. Sustainable Development Goal 8 (SDG 8) Integration**
+## **II. Python Principles**
+
+**WEave CAN** follows fundamental Python principles to ensure code clarity, maintainability, and scalability:
+
+### 1. **Object-Oriented Programming (OOP)**
+- **Encapsulation**:  
+  Data and methods are encapsulated within classes, making the code modular.  
+- **Inheritance**:  
+  Core entities like `User`, `Weaver`, and `Admin` share properties and methods through inheritance.  
+- **Polymorphism**:  
+  Methods behave differently depending on the object type, such as processing orders for different user roles.
+
+### 2. **Code Readability**
+- The program adheres to Python’s philosophy of clean, readable code, as promoted by **PEP 8**.
+
+### 3. **Error Handling**
+- Robust error handling ensures the system remains reliable and prevents crashes due to invalid inputs.
+
+### 4. **Dynamic Typing**
+- Python's dynamic typing allows for quick prototyping and adaptability in variable usage.
+
+### 5. **Reusability**
+- Functions and classes are designed to promote reusability, reducing redundancy and improving maintainability.
+
+---
+
+## **III. Sustainable Development Goal (SDG) Integration**
 
 <div align="center">
   <img src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_08.gif" alt="SDG 8 GIF" width="600">
 </div>
 
-**WEave CAN** aligns with **SDG 8: Decent Work and Economic Growth** by promoting sustainable economic opportunities for Filipino artisans:  
+**WEave CAN** aligns with the **United Nations Sustainable Development Goals**, particularly **SDG 8: Decent Work and Economic Growth**. Here’s how it contributes:
 
-1. **Efficiency and Growth**:  
-   Streamlines business operations, helping artisans scale their businesses.  
-2. **Economic Empowerment**:  
-   Provides artisans access to digital tools for income stability.  
-3. **Cultural Heritage**:  
-   Highlights traditional weaving materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.  
-4. **Community Impact**:  
-   Encourages local economic activity, benefiting indigenous and tribal groups in the Philippines.  
+1. **Efficient Business Practices**  
+   Streamlines operations for Filipino weavers, enabling them to scale their businesses efficiently.
 
----
+2. **Economic Empowerment**  
+   Provides digital tools for weavers to stabilize their income and expand their reach.
 
-## **III. Explanation of Python Concepts and Libraries**
+3. **Cultural Preservation**  
+   Highlights and supports traditional weaving materials (e.g., abaca, piña, cotton), preserving Filipino artistry.
 
-**WEave CAN** leverages key Python features to deliver a robust, scalable system:  
+4. **Community Upliftment**  
+   Enhances opportunities for indigenous and rural communities by creating sustainable economic activities.
 
-### 1. Object-Oriented Programming (OOP)  
-- **Classes and Inheritance**:  
-  Core entities like `User`, `Weaver`, and `Admin` are implemented using Python classes. Subclasses reuse and extend functionality from parent classes.  
-- **Encapsulation**:  
-  Encapsulated data within classes ensures modularity.  
-- **Polymorphism**:  
-  Methods adapt seamlessly to different object types, such as `Product` instances.  
-
-### 2. Modules and Libraries  
-- **`random`**:  
-  Generates unique order IDs for tracking.  
-
-### 3. Error Handling  
-- Functions ensure validation of inputs and handle invalid cases gracefully.  
-
-### 4. Inventory and Order Management  
-- The `Product` class manages stock and pricing, while the `Order` class tracks transactions.  
-
-### 5. Admin Functionality  
-- Features like generating reports and applying discounts are included for business management.  
-
-### 6. User Interface  
-- A user-friendly menu-driven CLI improves usability.
+5. **Inclusive Growth**  
+   Promotes gender equality and inclusivity by empowering female artisans, who are often the primary weavers.
 
 ---
 
@@ -114,9 +114,6 @@ Ensure you have the following installed:
    Open a terminal and execute:  
    ```bash
    python weave_gui.py
-
----
-
 
 ## **Acknowledgements**
 
