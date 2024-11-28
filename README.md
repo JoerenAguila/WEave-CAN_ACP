@@ -1,4 +1,4 @@
-# **WEave CAN: Inventory and Order Management System for Filipino Weavers**
+
 
 <div align="center">
   <img src="/image/WeaveCAN1_Logo.png" alt="WEaveCAN1 Logo" width="800">  
@@ -132,9 +132,8 @@ I would like to express my sincere gratitude to the following individuals:
 <div align="center">
   <img src="/image/WEavers.png" alt="Weavers" width="800"> 
 </div>
-
-**Thank you for your priceless contribution to the cultural legacy of the Philippines!**  
-
-**"WEAVE GOT IT ALL FOR YOU!"**
-
+<br><br>
+  <h3 align="center"><strong>Thank you for your priceless contribution to the cultural legacy of the Philippines!</strong></h3>
+  <h2 align="center">"WEAVE GOT IT ALL FOR YOU!"</h2>
+</div>
 ---
