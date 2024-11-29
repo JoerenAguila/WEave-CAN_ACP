@@ -23,18 +23,12 @@ IV. [Instructions for Running the Program](#iv-instructions-for-running-the-prog
 **WEave CAN** is a digital solution designed to empower Filipino weavers by streamlining inventory and order management. It addresses the challenges of manual business operations, enabling artisans to focus on their craft while improving efficiency and market access.
 
 ### Key Features:
-- **Inventory Tracking**:  
-  Add, update, and monitor stock levels for products like shawls, bags, and blankets.  
-- **Order Management**:  
-  Automatically adjust stock and manage customer orders seamlessly.  
-- **Reporting**:  
-  Generate sales reports to make informed business decisions.  
-- **User Roles**:  
-  Supports **Weaver** (artisan-focused) and **Admin** (management-focused) roles.  
-- **Order History & Cancellation**:  
-  View and cancel orders easily.  
-- **Discount Management**:  
-  Admins can apply promotional discounts to products.  
+- **Inventory Tracking**: Add, update, and monitor stock levels for products like shawls, bags, and blankets.  
+- **Order Management**: Automatically adjust stock and manage customer orders seamlessly.  
+- **Reporting**: Generate sales reports to make informed business decisions.  
+- **User Roles**: Supports **Weaver** (artisan-focused) and **Admin** (management-focused) roles.  
+- **Order History & Cancellation**: View and cancel orders easily.  
+- **Discount Management**: Admins can apply promotional discounts to products.  
 
 This project supports market expansion, business sustainability, and cultural preservation for Filipino artisans.
 
