@@ -95,14 +95,10 @@ This system demonstrates Python's versatility in building scalable, modular appl
 
 **WEave CAN** contributes to **SDG 8** by fostering sustainable business practices and supporting economic growth in artisan communities:
 
-- **Efficiency and Growth**:  
-  Streamlines inventory and order management, enabling artisans to scale their businesses efficiently.
-- **Economic Empowerment**:  
-  Provides access to digital tools that help weavers achieve income stability and financial independence.
-- **Cultural Heritage**:  
-  Highlights traditional weaving techniques and materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.
-- **Community Impact**:  
-  Strengthens local economies and benefits indigenous and tribal groups reliant on weaving as a primary source of livelihood.
+- **Efficiency and Growth**: Streamlines inventory and order management, enabling artisans to scale their businesses efficiently.
+- **Economic Empowerment**: Provides access to digital tools that help weavers achieve income stability and financial independence.
+- **Cultural Heritage**: Highlights traditional weaving techniques and materials (e.g., abaca, cotton) to preserve Filipino craftsmanship.
+- **Community Impact**: Strengthens local economies and benefits indigenous and tribal groups reliant on weaving as a primary source of livelihood.
 
 ---
 
@@ -114,17 +110,12 @@ This system demonstrates Python's versatility in building scalable, modular appl
 
 **WEave CAN** actively supports **SDG 5** by promoting gender equality and empowering women, who constitute a significant portion of Filipino weavers:
 
-- **Women’s Empowerment**:  
-  Focuses on providing digital tools and resources to women artisans, enabling them to manage their businesses more effectively and access larger markets.
-- **Economic Inclusion**:  
-  Addresses barriers that limit women’s participation in the workforce by offering solutions tailored to their roles in traditional crafts.
-- **Skill Development**:  
-  Encourages the preservation and growth of weaving skills, often passed down through generations of women, ensuring their cultural and economic relevance.
-- **Leadership Opportunities**:  
-  Recognizes women artisans as leaders in preserving cultural heritage and driving economic change within their communities.
+- **Women’s Empowerment**: Focuses on providing digital tools and resources to women artisans, enabling them to manage their businesses more effectively and access larger markets.
+- **Economic Inclusion**: Addresses barriers that limit women’s participation in the workforce by offering solutions tailored to their roles in traditional crafts.
+- **Skill Development**: Encourages the preservation and growth of weaving skills, often passed down through generations of women, ensuring their cultural and economic relevance.
+- **Leadership Opportunities**: Recognizes women artisans as leaders in preserving cultural heritage and driving economic change within their communities.
 
 By integrating these SDGs into its design and goals, **WEave CAN** serves as a platform for inclusive growth, gender equality, and cultural preservation, contributing to a better future for Filipino weaving communities.
-
 
 
 ---
