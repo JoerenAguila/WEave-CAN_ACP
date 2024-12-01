@@ -10,7 +10,7 @@
 ## **Table of Contents**
 
 I. [Overview](#i-overview)  
-II. [Python Concepts and Libraries](#ii-python-concepts-and-libraries)  
+II. [Python Concepts in WEave CAN](#ii-python-concepts-in-weave-can)  
 III. [Sustainable Development Goal (SDG) Integration](#iii-sustainable-development-goal-sdg-integration)  
 IV. [Instructions for Running the Program](#iv-instructions-for-running-the-program)  
 
@@ -34,7 +34,7 @@ This project supports market expansion, business sustainability, and cultural pr
 
 ---
 
-## **II. Python Concepts and Libraries**
+## **II. Python Concepts in WEave CAN**
 
 **WEave CAN** utilizes essential Python principles and libraries to ensure a structured and efficient system. Below is a breakdown of the concepts applied in the program:
 
