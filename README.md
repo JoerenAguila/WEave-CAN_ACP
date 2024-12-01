@@ -10,7 +10,7 @@
 ## **Table of Contents**
 
 I. [Overview](#i-overview)  
-II. [Python Principles](#ii-python-principles)  
+II. [Python Concepts and Libraries](#ii-python-concepts-and-libraries)  
 III. [Sustainable Development Goal (SDG) Integration](#iii-sustainable-development-goal-sdg-integration)  
 IV. [Instructions for Running the Program](#iv-instructions-for-running-the-program)  
 
@@ -34,7 +34,7 @@ This project supports market expansion, business sustainability, and cultural pr
 
 ---
 
-## **III. Python Concepts and Libraries**
+## **II. Python Concepts and Libraries**
 
 **WEave CAN** utilizes essential Python principles and libraries to ensure a structured and efficient system. Below is a breakdown of the concepts applied in the program:
 
@@ -82,8 +82,14 @@ This system demonstrates Python's versatility in building scalable, modular appl
 
 ---
 
-## **II. Sustainable Development Goal Integration**
-**WEave CAN** aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
+## **III. Sustainable Development Goal (SDG) Integration**
+In the concept of the name **WEave CAN,**
+
+**WE** means Woman Empowerment which highlights the woman lead business of the weaving community here in our country.
+
+**CAN** means they CAN also elevate the opportunities of their business transactions or the capability to work through a digitalized console based application.
+
+Thus, this console-based application aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
 
 ---
 
