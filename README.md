@@ -89,7 +89,7 @@ In the concept of the name **WEave CAN,**
 
 **CAN** means they CAN also elevate the opportunities of their business transactions or the capability to work through a digitalized console based application.
 
-Thus, this console-based application aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
+Thus, **WEave CAN** aligns with multiple Sustainable Development Goals, particularly **SDG 8: Decent Work and Economic Growth** and **SDG 5: Gender Equality**. These goals support the empowerment of Filipino artisans, with a focus on women weavers, to achieve sustainable economic opportunities and equality.
 
 ---
 
